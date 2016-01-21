@@ -1,0 +1,16 @@
+{
+  "name": "readableid",
+  "version": "1.0.0",
+  "description": "generate a random readable id",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piedshag/readableid.git"
+  },
+  "author": "piedshag",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piedshag/readableid/issues"
+  },
+  "homepage": "https://github.com/piedshag/readableid#readme"
+}
